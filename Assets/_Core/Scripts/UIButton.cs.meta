@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 602c65c9363bb5c45a0ba8cc730bc259
+timeCreated: 1490760139
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_TargetGraphic: {instanceID: 0}
+  - onSelectCue: {fileID: 11400000, guid: 16a6208c881cf3148aa66f5e6c1c0704, type: 2}
+  - onClickCue: {fileID: 11400000, guid: ec6d0b28adf440441bf554c7a9650b82, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

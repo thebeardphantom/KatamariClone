@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e721ae3b7586a14aaf61f07fdee3fb5, type: 3}
+  m_Name: UIButtonSelect
+  m_EditorClassIdentifier: 
+  sourcePrefab: {fileID: 82045920176648104, guid: 0a9115f1cdc4ae848ab12bd5a9c827d7,
+    type: 2}
+  rndPitchMod: 0.05
+  rndVolumeMod: 0.05
+  clips:
+  - {fileID: 8300000, guid: 35d3a2c90cd142a4da5499c27f51531a, type: 3}
